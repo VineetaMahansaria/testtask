@@ -1,0 +1,5 @@
+name: Address Form
+description: Gets location details
+type: module
+core_version_requirement: ^9 | ^10
+version: '1.0'

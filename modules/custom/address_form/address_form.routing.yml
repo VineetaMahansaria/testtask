@@ -1,0 +1,7 @@
+custom-user-form:
+  path: '/get-address-details'
+  defaults:
+    _form: '\Drupal\address_form\Form\AddressDetails'
+    _title: 'Find DHL Locations'
+  requirements:
+    _permission: 'access content'
